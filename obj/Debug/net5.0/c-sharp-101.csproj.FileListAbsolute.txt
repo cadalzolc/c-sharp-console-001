@@ -1,0 +1,16 @@
+D:\URAPZ\proj-demo\c-sharp-101\bin\Debug\net5.0\c-sharp-101.exe
+D:\URAPZ\proj-demo\c-sharp-101\bin\Debug\net5.0\c-sharp-101.deps.json
+D:\URAPZ\proj-demo\c-sharp-101\bin\Debug\net5.0\c-sharp-101.runtimeconfig.json
+D:\URAPZ\proj-demo\c-sharp-101\bin\Debug\net5.0\c-sharp-101.runtimeconfig.dev.json
+D:\URAPZ\proj-demo\c-sharp-101\bin\Debug\net5.0\c-sharp-101.dll
+D:\URAPZ\proj-demo\c-sharp-101\bin\Debug\net5.0\ref\c-sharp-101.dll
+D:\URAPZ\proj-demo\c-sharp-101\bin\Debug\net5.0\c-sharp-101.pdb
+D:\URAPZ\proj-demo\c-sharp-101\obj\Debug\net5.0\c-sharp-101.csprojAssemblyReference.cache
+D:\URAPZ\proj-demo\c-sharp-101\obj\Debug\net5.0\c-sharp-101.GeneratedMSBuildEditorConfig.editorconfig
+D:\URAPZ\proj-demo\c-sharp-101\obj\Debug\net5.0\c-sharp-101.AssemblyInfoInputs.cache
+D:\URAPZ\proj-demo\c-sharp-101\obj\Debug\net5.0\c-sharp-101.AssemblyInfo.cs
+D:\URAPZ\proj-demo\c-sharp-101\obj\Debug\net5.0\c-sharp-101.csproj.CoreCompileInputs.cache
+D:\URAPZ\proj-demo\c-sharp-101\obj\Debug\net5.0\c-sharp-101.dll
+D:\URAPZ\proj-demo\c-sharp-101\obj\Debug\net5.0\ref\c-sharp-101.dll
+D:\URAPZ\proj-demo\c-sharp-101\obj\Debug\net5.0\c-sharp-101.pdb
+D:\URAPZ\proj-demo\c-sharp-101\obj\Debug\net5.0\c-sharp-101.genruntimeconfig.cache

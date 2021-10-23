@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "c-sharp-101/1.0.0": {
+        "runtime": {
+          "c-sharp-101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c-sharp-101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
